@@ -23,7 +23,9 @@ function Poster() {
     padding: '15px 30px',
     margin: '40px 10px',
     borderRadius: '20px',
-    fontSize: '18px'}
+    fontSize: '18px',
+    cursor:'pointer'
+  }
   return (
     <div style={body}>
       <img src='https://img.freepik.com/premium-vector/library-with-picture-library-with-book-called-library_1086266-27812.jpg?w=740'

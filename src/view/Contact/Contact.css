@@ -1,0 +1,17 @@
+.Contact-block{
+    margin-top: 220px;
+    margin-right:330px;
+    font-size: 17px;
+
+    text-align:left;
+
+}
+.bold{
+    font-weight: bold;
+}
+.contact-heading{
+    position: relative;
+    top:110px;
+    left:180px;
+    text-decoration: underline;
+}

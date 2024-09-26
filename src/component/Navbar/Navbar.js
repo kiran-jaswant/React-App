@@ -10,10 +10,10 @@ function Navbar() {
         <h1 className='library'>Library</h1>
         </div>
         <div className='navbar-items'>
-            <h1 className='navbar-menu'>Home</h1>
-            <h1 className='navbar-menu'>About</h1>
-            <h1 className='navbar-menu'>Contact</h1>
-            <h1 className='navbar-menu'>Books</h1>
+            <a href='/' className='navbar-menu' ><h1 >Home</h1></a>
+            <a href='/about'  className='navbar-menu'><h1>About</h1></a>
+            <a href='/contact' className='navbar-menu'><h1 >Contact</h1></a>
+            <a href='/books' className='navbar-menu'><h1 >Books</h1></a>
 
         </div>
 
